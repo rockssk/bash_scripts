@@ -1,11 +1,11 @@
 #!/bin/bash
-# ############# ############# #############
-# ##                                     ##
-# ##                                     ##
-# ##      Script to auto start           ##
-# ##        a killed process             ##
-# ##                                     ##
-# ############# ############# #############
+# ############# ############# ##########################
+# ##                                                  ##
+# ##                                                  ##
+# ##      Script to auto start                        ##
+# ##        a killed process                          ##
+# ## Usage <<nohup sh respawner.sh <process> 2>&1 & >>##
+# ############# ############# ##########################
  
 
 #Author: Suresh Sethuramaswamy 
